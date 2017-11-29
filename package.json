@@ -1,0 +1,26 @@
+{
+  "name": "backbonejs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jqim/backbonejs-tutorial.git"
+  },
+  "author": "James Maclean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jqim/backbonejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/jqim/backbonejs-tutorial#readme",
+  "devDependencies": {
+    "backbone": "^1.3.3",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "underscore": "^1.8.3"
+  }
+}
